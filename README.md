@@ -3,15 +3,21 @@
 Shigaflow is an Android Torrent Client downloader by Shiga.
 
 ## Change
-1.0.0
+0.1.0
 - Download working data is stored temporarily in the app-private `torrent-work` directory while active. On successful completion, files are exported to the standard Downloads directory (or the custom folder selected in Settings), then the private working copies are removed to prevent completed downloads consuming storage twice.
 - Completed torrent records are restored from local preferences without recreating the private data copy.
 - Delete with “delete files too” also deletes exported file URIs recorded by the app, including after an app restart. “Keep files” removes the list entry and leaves exported files intact.
-- Settings, speed limits, foreground notification, and navigation remain.
+- Added Settings :  speed limits, foreground notification, and navigation.
+
+1.0.0
+- File Save Location Selection, and file saved there, not in temporarily
+- Adden Dark/Light Theme
 
 1.1.0
 - Multiple Torent Selection fix.
 - Redesign Multiple Selection Button on the Bottom
+- Added Active Torent on Notification
+- Added Exit on Notification
 
 
 ## Build notes
