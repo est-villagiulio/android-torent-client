@@ -1,4 +1,4 @@
-# Shigaflow 1.0.0
+# Shigaflow 1.1.0
 
 Shigaflow is an Android Torrent Client downloader by Shiga.
 
@@ -18,8 +18,9 @@ Because libtorrent writes to a filesystem path and Android restricts direct writ
 
 Let me tell you a story, Bough BitTorent Add-free Client since 2019, 2 weeks ago, its suddenly Update and the Restore Purchase are Missing, Emailing BitTorent Customer Service bear no Result. to put it simply, its my petty way to revenge.
 
+The App Already Build/compiled, Check app/build/release. ill release the windows version sometime later. 
 
-## Update 0.4.0
-- Fixed torrent record hash normalization for base32 magnet links and deletion persistence.
-- Added an expanded foreground notification showing active torrent names and percentages, with an Exit action that stops downloads without deleting data.
-- Release versionCode is 4; versionName is 0.4.0.
+<img width="400" height="820" alt="image" src="https://github.com/user-attachments/assets/5b5480f0-7d7e-47ba-979c-9c76f8dfb35e" />
+<img width="400" height="820" alt="image" src="https://github.com/user-attachments/assets/43a7c9f7-93f4-47d2-8a01-2694b6558ca4" />
+
+
