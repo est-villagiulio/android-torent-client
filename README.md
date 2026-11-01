@@ -10,7 +10,7 @@ Shigaflow is an Android Torrent Client downloader by Shiga.
 - Added Settings :  speed limits, foreground notification, and navigation.
 
 1.0.0
-- File Save Location Selection, and file saved there, not in temporarily Storage
+- File Save Location Selection, still in temporarily Storage, but when its done, its moved into downloads or other folder that choosed
 - Added Dark/Light Theme
 - Added About (just image of me and my friend when we do camp and maps link to our basecamp)
 
