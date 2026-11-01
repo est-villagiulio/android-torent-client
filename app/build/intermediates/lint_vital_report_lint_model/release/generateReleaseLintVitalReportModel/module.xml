@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="D:\Android Project\3\app"
+    name=":app"
+    type="APP"
+    maven="Shigaflow:app:unspecified"
+    agpVersion="8.9.1"
+    buildFolder="build"
+    bootClassPath="D:\Android Project\Required by Android Studio\platforms\android-36\android.jar;D:\Android Project\Required by Android Studio\build-tools\35.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-36"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

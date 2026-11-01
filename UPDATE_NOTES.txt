@@ -1,0 +1,27 @@
+Shigaflow Android update 0.4.0
+
+Changes in this update:
+1. Fixed torrent deletion persistence:
+   - Magnet info hashes in both hexadecimal and base32 form are normalized to the same 40-character hash.
+   - Older saved base32-magnet records that used generated UUID keys are normalized when records are loaded.
+   - Deleted torrent hashes are ignored if a delayed libtorrent status alert arrives after removal.
+   - Saved torrent records are synchronously committed when updated so a quick app close cannot leave the deleted entry in SharedPreferences.
+
+2. Expanded persistent notification:
+   - Expanded notification lists active, incomplete, non-paused torrents.
+   - Each line shows the torrent name and completion percentage.
+   - All active torrent rows are supplied to the expanded notification; Android may limit how many rows are simultaneously visible depending on device notification layout.
+   - Notification includes an Exit action.
+   - Exit stops the torrent session and foreground service, then closes Shigaflow.
+   - Exit does not delete torrent records, downloaded files, or partial files.
+   - Completed and paused torrents are not shown in the active-download list.
+
+Build:
+- applicationId remains com.shiga.shigaflow.
+- versionCode increased to 4.
+- versionName increased to 0.4.0.
+
+Build verification:
+- Source changes are included.
+- A full Gradle build could not be run in this environment because the Gradle distribution could not be downloaded (DNS/network unavailable).
+- Build the Release variant in Android Studio and install it over the existing Release installation using the same signing keystore.

@@ -1,0 +1,8 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_stat_torrentmate
+drawable klhw
+mipmap ic_launcher
+mipmap ic_launcher_round
+style AppTheme
+xml file_paths

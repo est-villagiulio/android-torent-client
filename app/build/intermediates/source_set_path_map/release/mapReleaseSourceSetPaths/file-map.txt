@@ -1,0 +1,46 @@
+com.shiga.shigaflow.app-ui-geometry-release-0 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\086d84c0925b07cec0673b9483229b74\transformed\ui-geometry-release\res
+com.shiga.shigaflow.app-graphics-path-1.0.1-1 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\1694280e673d628c26df4df6c896fd9b\transformed\graphics-path-1.0.1\res
+com.shiga.shigaflow.app-material3-release-2 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\1d37ebeff022fadbe380a42fa6f2d954\transformed\material3-release\res
+com.shiga.shigaflow.app-ui-graphics-release-3 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\2048243115a88ba02599df4ba765ab50\transformed\ui-graphics-release\res
+com.shiga.shigaflow.app-ui-release-4 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\20d2b899d15ede6efa4578f90e60ec46\transformed\ui-release\res
+com.shiga.shigaflow.app-ui-unit-release-5 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\24c7358183869b90b44d2a777e1a2dba\transformed\ui-unit-release\res
+com.shiga.shigaflow.app-savedstate-ktx-1.2.1-6 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\2e1ad00f7b8b2be688ed473a14364926\transformed\savedstate-ktx-1.2.1\res
+com.shiga.shigaflow.app-runtime-saveable-release-7 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\3d74e857f553de16c4b2297f661869ac\transformed\runtime-saveable-release\res
+com.shiga.shigaflow.app-startup-runtime-1.1.1-8 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\40ecfba309bf277d876dfa279b5cd3b0\transformed\startup-runtime-1.1.1\res
+com.shiga.shigaflow.app-activity-ktx-1.10.0-9 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\4c51a60594c892f4429b7aeaec15e166\transformed\activity-ktx-1.10.0\res
+com.shiga.shigaflow.app-lifecycle-runtime-compose-release-10 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\5518a4d8efd072ca11be324cfd2b9516\transformed\lifecycle-runtime-compose-release\res
+com.shiga.shigaflow.app-material-icons-core-release-11 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\62708fd3aff289b937bc4ba0e8647f72\transformed\material-icons-core-release\res
+com.shiga.shigaflow.app-activity-compose-1.10.0-12 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\6695163d1f0b98401c82927632673f2c\transformed\activity-compose-1.10.0\res
+com.shiga.shigaflow.app-ui-text-release-13 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\69cf254da673220c54a1bb745be7cb10\transformed\ui-text-release\res
+com.shiga.shigaflow.app-ui-tooling-preview-release-14 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\6b0bfb720daa4ba9b68f04d4fa6c6b4f\transformed\ui-tooling-preview-release\res
+com.shiga.shigaflow.app-tracing-1.2.0-15 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\6fc6a503d3c1a7059b94dcae443e95be\transformed\tracing-1.2.0\res
+com.shiga.shigaflow.app-runtime-release-16 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\728a01fc4f2e712eeebec11e8aa2bae8\transformed\runtime-release\res
+com.shiga.shigaflow.app-emoji2-1.3.0-17 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\76ea0386e890b8a1ae4d4f2532f06149\transformed\emoji2-1.3.0\res
+com.shiga.shigaflow.app-activity-1.10.0-18 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\8794ea737d83451069f8122cb1b61349\transformed\activity-1.10.0\res
+com.shiga.shigaflow.app-material-ripple-release-19 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\8c89dc2c31ea5b2bc827f513af6bc39a\transformed\material-ripple-release\res
+com.shiga.shigaflow.app-lifecycle-runtime-release-20 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\8edbb013ee84644cf65f028f03b40a17\transformed\lifecycle-runtime-release\res
+com.shiga.shigaflow.app-customview-poolingcontainer-1.0.0-21 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\90149bea3519b4ac1d6baf41598aa4b6\transformed\customview-poolingcontainer-1.0.0\res
+com.shiga.shigaflow.app-annotation-experimental-1.4.1-22 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\9109039d13472ded5e83b25c8ac1d13f\transformed\annotation-experimental-1.4.1\res
+com.shiga.shigaflow.app-lifecycle-process-2.8.7-23 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\96b4cb329c3b030a9c141939b40621ce\transformed\lifecycle-process-2.8.7\res
+com.shiga.shigaflow.app-lifecycle-viewmodel-savedstate-2.8.7-24 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\985e8d9290677ebb55e380ca33ca736e\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.shiga.shigaflow.app-animation-core-release-25 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\9e1e3579bc894326c3a604f6cac3e159\transformed\animation-core-release\res
+com.shiga.shigaflow.app-profileinstaller-1.4.0-26 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\b1686463a9a69c3f96d171d355095112\transformed\profileinstaller-1.4.0\res
+com.shiga.shigaflow.app-core-1.15.0-27 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\bc8fc00984e16d803e183991ba8d006b\transformed\core-1.15.0\res
+com.shiga.shigaflow.app-core-runtime-2.2.0-28 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\be8cdff9f4480d647239df23e0cfa5bb\transformed\core-runtime-2.2.0\res
+com.shiga.shigaflow.app-lifecycle-viewmodel-ktx-2.8.7-29 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\c186ba1f4aa76cd56b6bc6faf24461ed\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.shiga.shigaflow.app-savedstate-1.2.1-30 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\c2b25183cc7e8d63416e25f89e3e9627\transformed\savedstate-1.2.1\res
+com.shiga.shigaflow.app-foundation-release-31 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\c4c5e6b685df5c794102dcc32a796da6\transformed\foundation-release\res
+com.shiga.shigaflow.app-animation-release-32 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\c64599ce89a199f8e88cac15ebf9c145\transformed\animation-release\res
+com.shiga.shigaflow.app-lifecycle-livedata-core-2.8.7-33 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\d85d3220974355950099efa34213edff\transformed\lifecycle-livedata-core-2.8.7\res
+com.shiga.shigaflow.app-core-ktx-1.15.0-34 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\e20ba89cab679ef897bfbb7efa5c5405\transformed\core-ktx-1.15.0\res
+com.shiga.shigaflow.app-lifecycle-runtime-ktx-release-35 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\e8869893e292ade09b34f5ae572e2850\transformed\lifecycle-runtime-ktx-release\res
+com.shiga.shigaflow.app-foundation-layout-release-36 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\f52471fdbe0a0bb7ba3539ed04b5048a\transformed\foundation-layout-release\res
+com.shiga.shigaflow.app-ui-util-release-37 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\f962055a4ec10e25afc65d7e48e9b722\transformed\ui-util-release\res
+com.shiga.shigaflow.app-lifecycle-viewmodel-release-38 C:\Users\Administrator\.gradle\caches\9.6.0\transforms\fe912c2f5759e8ccedfc2f4493d199c8\transformed\lifecycle-viewmodel-release\res
+com.shiga.shigaflow.app-pngs-39 D:\Android Project\3\app\build\generated\res\pngs\release
+com.shiga.shigaflow.app-resValues-40 D:\Android Project\3\app\build\generated\res\resValues\release
+com.shiga.shigaflow.app-packageReleaseResources-41 D:\Android Project\3\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.shiga.shigaflow.app-packageReleaseResources-42 D:\Android Project\3\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.shiga.shigaflow.app-release-43 D:\Android Project\3\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.shiga.shigaflow.app-main-44 D:\Android Project\3\app\src\main\res
+com.shiga.shigaflow.app-release-45 D:\Android Project\3\app\src\release\res

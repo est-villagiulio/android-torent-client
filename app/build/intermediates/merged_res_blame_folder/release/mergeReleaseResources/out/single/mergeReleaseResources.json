@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "com.shiga.shigaflow.app-release-43:/drawable_ic_stat_torrentmate.xml.flat",
+        "source": "com.shiga.shigaflow.app-main-44:/drawable/ic_stat_torrentmate.xml"
+    },
+    {
+        "merged": "com.shiga.shigaflow.app-release-43:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.shiga.shigaflow.app-main-44:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.shiga.shigaflow.app-release-43:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.shiga.shigaflow.app-main-44:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.shiga.shigaflow.app-release-43:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.shiga.shigaflow.app-main-44:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.shiga.shigaflow.app-release-43:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.shiga.shigaflow.app-main-44:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.shiga.shigaflow.app-release-43:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.shiga.shigaflow.app-main-44:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.shiga.shigaflow.app-release-43:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.shiga.shigaflow.app-main-44:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.shiga.shigaflow.app-release-43:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.shiga.shigaflow.app-main-44:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.shiga.shigaflow.app-release-43:/xml_file_paths.xml.flat",
+        "source": "com.shiga.shigaflow.app-main-44:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.shiga.shigaflow.app-release-43:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.shiga.shigaflow.app-main-44:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.shiga.shigaflow.app-release-43:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.shiga.shigaflow.app-main-44:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.shiga.shigaflow.app-release-43:/drawable_klhw.png.flat",
+        "source": "com.shiga.shigaflow.app-main-44:/drawable/klhw.png"
+    },
+    {
+        "merged": "com.shiga.shigaflow.app-release-43:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.shiga.shigaflow.app-main-44:/mipmap-mdpi/ic_launcher_round.png"
+    }
+]
